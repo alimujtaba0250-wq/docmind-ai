@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+python-decouple
+sqlalchemy 
+psycopg2-binary
+python-jose
+bcrypt
+email-validator
+chromadb 
+sentence-transformers 
+langchain-text-splitters
+pymupdf 
+python-docx
